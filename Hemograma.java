@@ -27,7 +27,7 @@ public class Hemograma {
     }
 
     /**
-     * Obtém o valor de um parâmetro específico do hemograma.
+     * Obtém o valor de um parâmetro específico do hemograma
      * @param parametro O nome do parâmetro.
      * @return O valor do parâmetro.
      */

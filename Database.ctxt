@@ -9,5 +9,5 @@ comment2.target=com.j256.ormlite.jdbc.JdbcConnectionSource\ getConnection()
 comment2.text=\r\n\ Obt\u00E9m\ a\ conex\u00E3o\ com\ o\ banco\ de\ dados.\ Se\ a\ conex\u00E3o\ ainda\ n\u00E3o\ tiver\ sido\ estabelecida,\r\n\ ela\ ser\u00E1\ criada.\ Caso\ contr\u00E1rio,\ a\ conex\u00E3o\ existente\ ser\u00E1\ retornada.\r\n\ @return\ Um\ objeto\ JdbcConnectionSource\ que\ representa\ a\ conex\u00E3o\ com\ o\ banco\ de\ dados.\r\n\ @throws\ SQLException\ Se\ o\ caminho\ do\ banco\ de\ dados\ for\ nulo\ ou\ se\ houver\ erro\ ao\ estabelecer\ a\ conex\u00E3o.\r\n
 comment3.params=
 comment3.target=void\ close()
-comment3.text=\r\n\ Fecha\ a\ conex\u00E3o\ com\ o\ banco\ de\ dados,\ se\ estiver\ aberta.\r\n\ Ap\u00F3s\ fechar,\ o\ objeto\ de\ conex\u00E3o\ \u00E9\ definido\ como\ nulo.\r\n
+comment3.text=\r\n\ Fecha\ a\ conex\u00E3o\ com\ o\ banco\ de\ dados,\ se\ estiver\ aberta.\r\n\ Ap\u00F3s\ fechar,\ o\ objeto\ de\ conex\u00E3o\ \u00E9\ definido\ como\ nulo\r\n
 numComments=4

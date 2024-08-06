@@ -44,7 +44,7 @@ public class Database {
 
     /**
      * Fecha a conexão com o banco de dados, se estiver aberta.
-     * Após fechar, o objeto de conexão é definido como nulo.
+     * Após fechar, o objeto de conexão é definido como nulo
      */
     public void close() {
         if (connection != null) {

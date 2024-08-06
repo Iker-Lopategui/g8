@@ -172,7 +172,7 @@ class FaixaValores {
     /**
      * Obtém o valor mínimo da faixa.
      * 
-     * @return O valor mínimo
+     * @return O valor mínimo.
      */
     public double getMin() {
         return min;

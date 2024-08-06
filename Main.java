@@ -141,15 +141,15 @@ public class Main extends Application {
                         FaixaValores faixaValores = valoresReferenciaUsuario.get(parametro);
                         if (faixaValores == null) {
                             resultados.append(parametro).append(": Valor de referência não encontrado.\n");
-                        } else if (valor < faixaValores.getMin()) {
+                        } else if (valor < faixaValores.getMinimo()) {
                             resultados.append(parametro).append(" está abaixo do valor de referência: ").append(valor).append(" ")
                                 .append(faixaValores.getUnidade()).append(" (Valor de referência: ")
-                                .append(faixaValores.getMin()).append(" - ").append(faixaValores.getMax()).append(" ")
+                                .append(faixaValores.getMinimo()).append(" - ").append(faixaValores.getMaximo()).append(" ")
                                 .append(faixaValores.getUnidade()).append(")\n");
-                        } else if (valor > faixaValores.getMax()) {
+                        } else if (valor > faixaValores.getMaximo()) {
                             resultados.append(parametro).append(" acima do valor de referência: ").append(valor).append(" ")
                                 .append(faixaValores.getUnidade()).append(" (Valor de referência: ")
-                                .append(faixaValores.getMin()).append(" - ").append(faixaValores.getMax()).append(" ")
+                                .append(faixaValores.getMinimo()).append(" - ").append(faixaValores.getMaximo()).append(" ")
                                 .append(faixaValores.getUnidade()).append(")\n");
                         }
                     }

@@ -40,7 +40,7 @@ public class PacienteController {
 
     /**
      * Método chamado automaticamente pelo sistema quando o controlador é carregado.
-     * Inicializa as colunas da tabela e carrega os pacientes do banco de dados.
+     * Inicializa as colunas da tabela e carrega os pacientes do banco de dados
      */
     public void initialize() {
         idColumn.setCellValueFactory(new PropertyValueFactory<>("id"));

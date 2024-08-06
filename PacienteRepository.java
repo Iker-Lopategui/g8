@@ -41,7 +41,7 @@ public class PacienteRepository {
     /**
      * Adiciona um novo paciente ao banco de dados e ao cache.
      * @param paciente O paciente a ser adicionado.
-     * @throws Exception Se ocorrer um erro ao adicionar o paciente.
+     * @throws Exception Se ocorrer um erro ao adicionar o paciente
      */
     public void create(Paciente paciente) throws Exception {
         pacienteDao.create(paciente);
