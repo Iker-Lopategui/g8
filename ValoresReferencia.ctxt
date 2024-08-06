@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ValoresReferencia
+comment0.text=\r\n\ Classe\ para\ armazenar\ e\ gerenciar\ valores\ de\ refer\u00EAncia\ para\ exames\ laboratoriais\r\n\ com\ base\ em\ idade\ e\ g\u00EAnero.\r\n
+comment1.params=
+comment1.target=ValoresReferencia()
+comment1.text=\r\n\ Construtor\ da\ classe\ ValoresReferencia.\ Inicializa\ o\ mapa\ com\ os\ valores\ de\ refer\u00EAncia\r\n\ para\ diferentes\ grupos\ et\u00E1rios\ e\ de\ g\u00EAnero.\r\n
+comment2.params=categoria
+comment2.target=java.util.Map\ obterValores(java.lang.String)
+comment2.text=\r\n\ Obt\u00E9m\ os\ valores\ de\ refer\u00EAncia\ para\ uma\ determinada\ categoria.\r\n\ \r\n\ @param\ categoria\ A\ categoria\ para\ a\ qual\ os\ valores\ de\ refer\u00EAncia\ devem\ ser\ retornados\r\n\ @return\ Um\ mapa\ contendo\ os\ valores\ de\ refer\u00EAncia\ para\ a\ categoria\ especificada\r\n
+numComments=3

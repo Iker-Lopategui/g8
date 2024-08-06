@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FaixaValores
+comment0.text=\r\n\ Representa\ uma\ faixa\ de\ valores\ com\ uma\ unidade\ de\ medida.\r\n\ <p>\r\n\ Esta\ classe\ \u00E9\ usada\ para\ definir\ uma\ faixa\ de\ valores\ para\ um\ determinado\ par\u00E2metro\r\n\ laboratorial,\ incluindo\ um\ valor\ m\u00EDnimo,\ um\ valor\ m\u00E1ximo\ e\ a\ unidade\ de\ medida\ associada.\r\n\ </p>\r\n
+comment1.params=minimo\ maximo\ unidade
+comment1.target=FaixaValores(double,\ double,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ criar\ uma\ faixa\ de\ valores.\r\n\ \r\n\ @param\ minimo\ O\ valor\ m\u00EDnimo\ da\ faixa.\ Deve\ ser\ um\ n\u00FAmero\ positivo\ ou\ zero.\r\n\ @param\ maximo\ O\ valor\ m\u00E1ximo\ da\ faixa.\ Deve\ ser\ maior\ ou\ igual\ ao\ valor\ m\u00EDnimo.\r\n\ @param\ unidade\ A\ unidade\ de\ medida\ da\ faixa,\ como\ "g/dL",\ "%",\ "fL",\ etc.\r\n
+comment2.params=
+comment2.target=double\ getMinimo()
+comment2.text=\r\n\ Obt\u00E9m\ o\ valor\ m\u00EDnimo\ da\ faixa.\r\n\ \r\n\ @return\ O\ valor\ m\u00EDnimo\ da\ faixa.\r\n
+comment3.params=
+comment3.target=double\ getMaximo()
+comment3.text=\r\n\ Obt\u00E9m\ o\ valor\ m\u00E1ximo\ da\ faixa.\r\n\ \r\n\ @return\ O\ valor\ m\u00E1ximo\ da\ faixa.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getUnidade()
+comment4.text=\r\n\ Obt\u00E9m\ a\ unidade\ de\ medida\ da\ faixa.\r\n\ \r\n\ @return\ A\ unidade\ de\ medida\ da\ faixa.\r\n
+numComments=5

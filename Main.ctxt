@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Classe\ principal\ para\ iniciar\ a\ aplica\u00E7\u00E3o\ JavaFX\ e\ gerenciar\ a\ interface\ de\ usu\u00E1rio\ do\ sistema\ de\ hemograma.\r\n
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\r\n\ M\u00E9todo\ principal\ para\ iniciar\ a\ aplica\u00E7\u00E3o.\r\n\r\n\ @param\ primaryStage\ O\ est\u00E1gio\ principal\ da\ aplica\u00E7\u00E3o\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ M\u00E9todo\ principal\ para\ iniciar\ a\ aplica\u00E7\u00E3o.\r\n\r\n\ @param\ args\ Argumentos\ de\ linha\ de\ comando\r\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PacienteController
+comment0.text=\r\n\ Controlador\ respons\u00E1vel\ pela\ intera\u00E7\u00E3o\ entre\ a\ interface\ gr\u00E1fica\ de\ usu\u00E1rio\ e\ o\ modelo\ de\ dados\ do\ paciente.\r\n
+comment1.params=
+comment1.target=void\ initialize()
+comment1.text=\r\n\ M\u00E9todo\ chamado\ automaticamente\ pelo\ sistema\ quando\ o\ controlador\ \u00E9\ carregado.\r\n\ Inicializa\ as\ colunas\ da\ tabela\ e\ carrega\ os\ pacientes\ do\ banco\ de\ dados.\r\n
+comment2.params=
+comment2.target=void\ adicionarPaciente()
+comment2.text=\r\n\ Adiciona\ um\ novo\ paciente\ \u00E0\ tabela\ e\ ao\ banco\ de\ dados\ com\ base\ nos\ dados\ fornecidos\ pelos\ campos\ de\ texto.\r\n
+comment3.params=
+comment3.target=void\ carregarPacientes()
+comment3.text=\r\n\ Carrega\ todos\ os\ pacientes\ do\ banco\ de\ dados\ e\ os\ exibe\ na\ tabela.\r\n
+numComments=4

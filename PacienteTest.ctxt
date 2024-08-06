@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PacienteTest
+comment1.params=
+comment1.target=PacienteTest()
+comment1.text=\r\n\ Construtor\ default\ para\ a\ classe\ de\ teste\ PacienteTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Define\ a\ 'fixture'\ do\ teste.\r\n\r\n\ Chamado\ antes\ de\ cada\ m\u00E9todo\ de\ caso\ de\ teste.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Desfaz\ a\ 'fixture'\ do\ teste.\r\n\r\n\ Chamado\ ap\u00F3s\ cada\ m\u00E9todo\ de\ teste\ de\ caso.\r\n
+comment4.params=
+comment4.target=void\ testepaciente()
+numComments=5

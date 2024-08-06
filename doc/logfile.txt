@@ -1,0 +1,184 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej
+-source
+17
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\javafx-base-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-base-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-controls-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-controls-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-fxml-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-fxml-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-graphics-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-graphics-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-media-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-media-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-swing-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-web-20.0.1-win.jar;C:\Program Files\BlueJ\lib\junit-4.12.jar;C:\Program Files\BlueJ\lib\junit-jupiter-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-api-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-params-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-commons-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-engine-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-launcher-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-vintage-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\opentest4j-1.2.0.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Program Files\BlueJ\lib\javafx\javafx.base.jar;C:\Program Files\BlueJ\lib\javafx\javafx.controls.jar;C:\Program Files\BlueJ\lib\javafx\javafx.fxml.jar;C:\Program Files\BlueJ\lib\javafx\javafx.graphics.jar;C:\Program Files\BlueJ\lib\javafx\javafx.media.jar;C:\Program Files\BlueJ\lib\javafx\javafx.properties.jar;C:\Program Files\BlueJ\lib\javafx\javafx.swing.jar;C:\Program Files\BlueJ\lib\javafx\javafx.web.jar;C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej
+-d
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+ProjetoFinal G8 - Bluej
+-windowtitle
+ProjetoFinal G8 - Bluej
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/17/docs/api/
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/PacienteRepository.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/Hemograma.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/HemogramaTest.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/FaixaValoresTest.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/Paciente.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/MainTest.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/PacienteTest.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/PontaAPonta.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/Database.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/ExibirResultados.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/Main.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/ValoresReferencia.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/FaixaValores.java
+C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej/PacienteController.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\PacienteRepository.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\Hemograma.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\HemogramaTest.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\FaixaValoresTest.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\Paciente.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\MainTest.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\PacienteTest.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\PontaAPonta.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\Database.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\ExibirResultados.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\Main.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\ValoresReferencia.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\FaixaValores.java...
+Loading source file C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\PacienteController.java...
+Constructing Javadoc information...
+warning: unknown enum constant Status.STABLE
+  reason: class file for org.apiguardian.api.API$Status not found
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+warning: unknown enum constant Status.STABLE
+Building index for all the packages and classes...
+Standard Doclet version 17.0.4.1+1
+Building tree for all the packages and classes...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\Database.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\ExibirResultados.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\FaixaValores.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\FaixaValoresTest.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\Hemograma.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\HemogramaTest.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\Main.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\MainTest.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\Paciente.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\PacienteController.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\PacienteRepository.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\PacienteTest.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\PontaAPonta.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\ValoresReferencia.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\package-summary.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\package-tree.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\overview-tree.html...
+Building index for all classes...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\allclasses-index.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\allpackages-index.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\index-all.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\index.html...
+Generating C:\Users\Iker\Desktop\ProjetoFinal G8 - Bluej\doc\help-doc.html...
+100 warnings
